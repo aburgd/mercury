@@ -1,1 +1,1 @@
-worker: python numbers.py
+worker: python mercury.py
